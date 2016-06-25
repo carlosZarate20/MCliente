@@ -1,0 +1,148 @@
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\MantenimientoCliente.dll.config
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\MantenimientoCliente.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\MantenimientoCliente.pdb
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Antlr3.Runtime.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\EntityFramework.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\EntityFramework.SqlServer.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.Core.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Cookies.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Facebook.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Google.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.OAuth.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Twitter.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Web.Infrastructure.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Newtonsoft.Json.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Owin.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Helpers.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Mvc.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Optimization.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Razor.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.Deployment.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.Razor.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\WebGrease.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Helpers.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Mvc.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Optimization.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Razor.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.Deployment.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.Razor.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Newtonsoft.Json.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Antlr3.Runtime.pdb
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\EntityFramework.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\EntityFramework.SqlServer.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.Core.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Facebook.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Cookies.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.OAuth.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Google.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Twitter.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.Helpers.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.Mvc.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.Optimization.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.Razor.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.WebPages.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\EntityFramework.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\EntityFramework.SqlServer.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\obj\Debug\MantenimientoCliente.csprojResolveAssemblyReference.cache
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\obj\Debug\MantenimientoCliente.dll
+D:\universidad\ciclo 07\Diseño y experimentos de ISW\pruebas\MantenimientoCliente\MantenimientoCliente\obj\Debug\MantenimientoCliente.pdb
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\MantenimientoCliente.dll.config
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\MantenimientoCliente.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\MantenimientoCliente.pdb
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Antlr3.Runtime.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\EntityFramework.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\EntityFramework.SqlServer.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Newtonsoft.Json.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Owin.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Helpers.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Mvc.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Optimization.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Razor.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.Razor.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\WebGrease.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Helpers.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Mvc.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Optimization.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.Razor.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\System.Web.WebPages.Razor.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Newtonsoft.Json.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Antlr3.Runtime.pdb
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\EntityFramework.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\EntityFramework.SqlServer.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.Helpers.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.Mvc.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.Optimization.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.Razor.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.WebPages.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\EntityFramework.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\obj\Debug\MantenimientoCliente.dll
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\obj\Debug\MantenimientoCliente.pdb
+C:\Users\victorjavier\Desktop\MantenimientoCliente\MantenimientoCliente\obj\Debug\MantenimientoCliente.csprojResolveAssemblyReference.cache

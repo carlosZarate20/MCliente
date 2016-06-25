@@ -1,0 +1,74 @@
+﻿@model MantenimientoCliente.ViewModel.LstClienteViewModel
+
+@using MantenimientoCliente.ViewModel
+@{
+    ViewBag.Title = "LstCliente";
+    ViewBag.Icon = "fa fa-globe";
+
+    var Login = Session["LOGIN"] as LoginViewModel;
+    
+
+    
+  
+}
+
+<form method="post">
+    @Html.TextBoxFor(x => x.BuscarCliente)
+    <button type="submit">Buscar</button>
+</form>
+
+@if (TempData["MensajeRespuesta"] != null)
+{
+    <div>
+        <div class="validation-summary-errors">@TempData["MensajeRespuesta"]</div>
+    </div>
+}
+
+<table class="table table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>DNI</th>
+            <th>Sexo</th>
+            <th>Edad</th>
+            <th>Nivel de Estudios</th>
+            <th>Telefono</th>
+            <th>Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.LstCliente)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellido</td>
+                <td>@item.DNI</td>
+                <td>@item.Sexo</td>
+                <td>@item.Edad</td>
+                <td>@item.Nivel_Estudio</td>
+                <td>@item.Telefono</td>
+                <td>
+                    <a class="btn btn-default" href="@Url.Action("EditarCliente", new { ClienteId = item.ClienteId })">
+                        <i class="fa fa-edit"></i> Editar
+                    </a>
+                    <a class="btn btn-default" href="@Url.Action("EliminarCliente", new { ClienteId = item.ClienteId })" onclick="return confirm('Desea aliminar')">
+                        <i class="glyphicon glyphicon-remove"></i> Eliminar
+                    </a>
+
+                </td>
+
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-default" href="@Url.Action("RegistrarCliente")">
+    <i class="fa fa-plus"></i> Agregar
+</a>
+<a class="btn btn-default" href="@Url.Action("Login")">
+    <i class="fa fa-sign-out" aria-hidden="true"></i> Salir
+</a>
+
+

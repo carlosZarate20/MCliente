@@ -1,0 +1,16 @@
+﻿@using MantenimientoCliente.Models
+@{
+    ViewBag.Title = "Index";
+
+  
+    var Login = Session["LOGIN"] as LoginModel;
+
+    if (Login == null)
+    {
+        Response.Redirect("Login");
+    }
+    
+}
+
+<h2>Index</h2>
+

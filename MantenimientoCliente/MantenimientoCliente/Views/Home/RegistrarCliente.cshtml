@@ -1,0 +1,64 @@
+﻿@model MantenimientoCliente.ViewModel.RegistrarClienteViewModel
+
+@using MantenimientoCliente.Models
+@{
+    ViewBag.Title = "RegistrarCliente";
+    ViewBag.Icon = "fa fa-sign-in";
+
+    var Login = Session["LOGIN"] as LoginModel;
+
+    
+}
+
+<form role="form" method="post">
+
+    @Html.HiddenFor(X => X.ClienteId)
+
+    <div class="form-group">
+        <label>Nombre:</label>
+        @Html.TextBoxFor(X => X.Nombre)
+    </div>
+    <div class="form-group">
+        <label>Apellidos:</label>
+        @Html.TextBoxFor(X => X.Apellidos)
+    </div>
+    <div class="form-group">
+        <label>DNI:</label>
+        @Html.TextBoxFor(X => X.DNI)
+    </div>
+    <div class="form-group">
+        <label>Edad:</label>
+        @Html.TextBoxFor(X => X.Edad)
+    </div>
+    <div class="form-group">
+        <label>Sexo:</label>
+        @Html.RadioButtonFor(X => X.Sexo, "Femenino") Femenino
+        @Html.RadioButtonFor(X => X.Sexo, "Masulino") Masculino
+    </div>
+    <div class="form-group">
+        <label>Nivel de Estudios:</label>
+        @Html.DropDownListFor(X => X.Nivel, new SelectList(new[] { "Escolar", "Universitario", "Superior" }))
+    
+
+    </div>
+    <div class="form-group">
+        <label>Telefono:</label>
+        @Html.TextBoxFor(X => X.Telefono)
+    </div>
+
+    @if (TempData["Mensaje"] != null)
+    {
+        <div>
+            <div class="validation-summary-errors">@TempData["Mensaje"]</div>
+        </div>
+    }
+    
+
+
+    <button type="submit" class="btn btn-default" onclick="return confirm('Desea Registrar')" >Registrar</button>
+
+
+    <a href="@Url.Action("LstCliente", "Home")" class="btn btn-default">Cancelar</a>
+
+</form>
+
